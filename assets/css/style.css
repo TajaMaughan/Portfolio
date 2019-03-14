@@ -43,22 +43,28 @@ header {
     color: #122034;
 }
 
-.bannerPage, .bannerGit {
+.bannerPage, .description {
     display: block;
-    background-color: #670c31;
     font-family: 'ZCOOL Xiaowei', 'times new roman', serif;
+    position: relative;
+}
+
+.bannerPage {
+    background-color: #670c31;
     color: #d2ddd8;
-}
-
-/* .bannerPage {
     bottom: 90px;
-} */
-
-/* .bannerGit {
-
-} */
-
-.project {
-    /* display: block; */
-    justify-items: center;
 }
+
+.description {
+    font-size: 1.5rem;
+    bottom: 70px;
+}
+
+.section {
+    height: 33vw;
+}
+
+/* .project {
+    display: block;
+    justify-items: center;
+}  */
