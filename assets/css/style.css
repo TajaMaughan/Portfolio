@@ -57,11 +57,11 @@ header {
 
 .description {
     font-size: 1.5rem;
-    bottom: 70px;
+    bottom: 95px;
 }
 
 .section {
-    height: 33vw;
+    height: 480px;
 }
 
 /* .project {
