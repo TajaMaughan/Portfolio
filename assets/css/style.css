@@ -48,18 +48,17 @@ header {
     background-color: #670c31;
     font-family: 'ZCOOL Xiaowei', 'times new roman', serif;
     color: #d2ddd8;
-    position: relative;
 }
 
-.bannerPage {
+/* .bannerPage {
     bottom: 90px;
-}
+} */
 
-.bannerGit {
-    bottom: 70px;
-}
+/* .bannerGit {
+
+} */
 
 .project {
-    display: block;
+    /* display: block; */
     justify-items: center;
 }
