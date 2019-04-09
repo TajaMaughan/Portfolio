@@ -1,0 +1,79 @@
+[
+    {
+        "name": "Kitty Click",
+        "img": "./assets/images/KittyClick.png",
+        "siteURL": "https://kittyclick.herokuapp.com/",
+        "repositoryURL": "https://github.com/TajaMaughan/KittyClick",
+        "description": "A React application that deals with state to determine if something has already been clicked and to update score"
+    },
+    {
+        "name": "Bon Appetit",
+        "img": "./assets/images/BonAppetit.png",
+        "siteURL": "https://radiant-meadow-22127.herokuapp.com/",
+        "repositoryURL": "https://github.com/common-denominators/bonappetit3",
+        "description": "A work in progess. It was a class project that we haven't been able to complete at this time. I worked primarily on the backend aspects. Utilizies:Node, MySQL, Sequelize, Express, and Handlebars."
+    },
+    {
+        "name": "Eat the Burger!",
+        "img": "./assets/images/Burger.png",
+        "siteURL": "https://mysterious-basin-54212.herokuapp.com/",
+        "repositoryURL": "https://github.com/TajaMaughan/burger",
+        "description": "A small application that holds burgers the users what to eat. They can then be marked as 'Devoured'. Utilizies: Node, MySQL, Sequelize, Express, and Handlebars."
+    },
+    {
+        "name": "Friend Finder",
+        "img": "./assets/images/FriendFinder.png",
+        "siteURL": "https://vast-oasis-66539.herokuapp.com/",
+        "repositoryURL": "https://github.com/TajaMaughan/friendFinder",
+        "description": "A questionaire that matches you to the person whom answer most closely match yours. Utilizes: Node, Express"
+    },
+    {
+        "name": "Liri-Bot",
+        "img": "./assets/images/liri-bot.png",
+        "siteURL": "https://github.com/TajaMaughan/liri-node-app",
+        "repositoryURL": "https://github.com/TajaMaughan/liri-node-app",
+        "description": "A CLI that returns infomation about a band, song, or movie. Utilizes: Node"
+    },
+    {
+        "name": "Bummer Passwords",
+        "img": "./assets/images/BummerPasswords.png",
+        "siteURL": "https://tajamaughan.github.io/BummerPasswords/",
+        "repositoryURL": "https://github.com/TajaMaughan/BummerPasswords",
+        "description": "A password manager put together as a group project. Utilizes: Firebase"
+    },
+    {
+        "name": "Train Tracker",
+        "img": "./assets/images/TrainTracker.png",
+        "siteURL": "https://tajamaughan.github.io/TrainBonus/",
+        "repositoryURL": "https://github.com/TajaMaughan/TrainBonus",
+        "description": "A train schedule application. Utilizes: Firebase, Moment.js"
+    },
+    {
+        "name": "Gif Generator",
+        "img": "./assets/images/GifGenerator.png",
+        "siteURL": "https://tajamaughan.github.io/GifGenerator/",
+        "repositoryURL": "https://github.com/TajaMaughan/GifGenerator",
+        "description": "Application that allows you add a topic to search for gif. It will pull up 10 still gifs that can be animated. Utilizes: Giphy API"
+    },
+    {
+        "name": "Disney Trivia",
+        "img": "./assets/images/DisneyTrivia.png",
+        "siteURL": "https://tajamaughan.github.io/TriviaGame/",
+        "repositoryURL": "https://github.com/TajaMaughan/TriviaGame",
+        "description": "A trivia game that will compare you answer to the correct answers and return a score. Utilizes: Javascript objects"
+    },
+    {
+        "name": "Crystal Collector",
+        "img": "./assets/images/CrystalCollector.png",
+        "siteURL": "https://tajamaughan.github.io/unit-4-game/",
+        "repositoryURL": "https://github.com/TajaMaughan/unit-4-game",
+        "description": "A math game that requires you to hit the target total with out going over. Utilizes: jQuery"
+    },
+    {
+        "name": "Word Guess",
+        "img": "./assets/images/WordGuess.png",
+        "siteURL": "https://tajamaughan.github.io/WordGuess/",
+        "repositoryURL": "https://github.com/TajaMaughan/WordGuess",
+        "description": "A hangman style game. Utilizes: jQuery"
+    }
+]
