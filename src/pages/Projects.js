@@ -4,7 +4,6 @@ import projectList from "../projectList.json";
 import Jumbotron from "react-bootstrap/Jumbotron";
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
-import Col from "react-bootstrap/Col";
 
 function Projects() {
   return (
@@ -13,7 +12,6 @@ function Projects() {
         <h2>Projects</h2>
       </Jumbotron>
       <Row>
-        <Col>
           {projectList.map(project => (
             <Project
               name={project.name}
@@ -23,7 +21,6 @@ function Projects() {
               description={project.description}
             />
           ))}
-        </Col>
       </Row>
     </Container>
   );
