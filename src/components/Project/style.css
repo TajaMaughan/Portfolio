@@ -1,0 +1,19 @@
+.card {
+    border: outset;
+    border-color: #24c3ae;
+    border-width: 5px;
+}
+
+.github {
+    background: #4b666e;
+    border: outset;
+    border-color: #24c3ae;
+    border-width: 2px;
+    color: #122034;
+}
+
+/* .title{
+    border-top: ridge;
+    border-color: #24c3ae;
+    border-width: 5px;
+} */

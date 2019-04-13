@@ -1,14 +1,10 @@
 import React from "react";
 import Container from "react-bootstrap/Container";
-import Jumbotron from "react-bootstrap/Jumbotron";
-
 
 function About() {
   return (
     <Container>
-        <Jumbotron>
-            <h2>About Me</h2>
-        </Jumbotron>
+      <h2>About Me</h2>
       <h5 class="">
         I am a web developer with background as a pharmacy technician. Through
         this experience, I spent a lot of time helping customers and finding
@@ -24,7 +20,15 @@ function About() {
         position in a tech driven work environment.
       </h5>
       <h3>Languages and Frameworks</h3>
-      <p>Javascript</p><p>MongoDB</p><p>MySql</p><p>React</p><p>jQuery</p><p>Express</p><p>Node</p><p>HTML</p><p>CSS</p>
+      {/* <p>Javascript</p>
+      <p>MongoDB</p>
+      <p>MySql</p>
+      <p>React</p>
+      <p>jQuery</p>
+      <p>Express</p>
+      <p>Node</p>
+      <p>HTML</p>
+      <p>CSS</p> */}
     </Container>
   );
 }

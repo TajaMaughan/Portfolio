@@ -1,11 +1,11 @@
 import React from "react";
-import Jumbotron from "react-bootstrap/Jumbotron";
+import Container from "react-bootstrap/Container";
 
 function Contact() {
   return (
-        <Jumbotron>
-            <h2>Contact</h2>
-        </Jumbotron>
+    <Container>
+      <h2>Contact</h2>
+    </Container>
   );
 }
 
