@@ -3,3 +3,18 @@
     font-family: 'oleo script swash caps', 'Segoe script', cursive;
     padding-top: 2rem;
 }
+
+.contact-link {
+    color: #4b666e;
+    font-family: 'ZCOOL Xiaowei', 'times new roman', serif;
+}
+
+.text {
+    color: #122034;
+    font-family: 'ZCOOL Xiaowei', 'times new roman', serif;
+}
+
+.text-container {
+    background-color: #d2ddd8;
+    padding: 2rem;
+}

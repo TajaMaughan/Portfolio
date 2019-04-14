@@ -5,7 +5,8 @@ function About() {
   return (
     <Container>
       <h1 className="page-header text-center">About Me</h1>
-      <h5 className="">
+      <div className="text-container">
+      <h5 className="text">
         I am a web developer with background as a pharmacy technician. Through
         this experience, I spent a lot of time helping customers and finding
         ways to improve the pharmacy workflow and inventory management. I really
@@ -19,16 +20,9 @@ function About() {
         developed through the Bootcamp, I am very well equipped to fill a
         position in a tech driven work environment.
       </h5>
-      <h3>Languages and Frameworks</h3>
-      {/* <p>Javascript</p>
-      <p>MongoDB</p>
-      <p>MySql</p>
-      <p>React</p>
-      <p>jQuery</p>
-      <p>Express</p>
-      <p>Node</p>
-      <p>HTML</p>
-      <p>CSS</p> */}
+      <h3 className="text">Languages and Frameworks</h3>
+      <h5 className="text">Javascript, MongoDB, MySql, React, jQuery, Express, Node, HTML, CSS</h5>
+    </div>
     </Container>
   );
 }
