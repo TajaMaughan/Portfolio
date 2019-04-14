@@ -1,0 +1,17 @@
+.nav-name {
+    font-family: 'oleo script swash caps', 'Segoe script', cursive;
+    font-size: 3rem;
+    color: #c32439;
+    background-color: #24c3ae;
+    margin: 0px;
+    padding-top: 1.5rem;
+}
+
+.navbar {
+    background-color: #24c3ae;
+    border-bottom: solid;
+    border-color: #4b666e;
+    border-width: .5rem;
+    font-family: 'ZCOOL Xiaowei', 'times new roman', serif;
+    font-size: 1.5rem;
+}

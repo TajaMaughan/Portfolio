@@ -7,7 +7,7 @@ import "./style.css";
 function Project(props) {
   return (
     <Col xs={12} md={6} lg={4}>
-      <Card className="mt-5 card">
+      <Card className="card">
         <Card.Img variant="top" src={props.img} />
         <Card.ImgOverlay className="text-right">
           <Card.Title>
@@ -22,7 +22,7 @@ function Project(props) {
           </Card.Title>
         </Card.ImgOverlay>
       </Card>
-      <Card className="title">
+      <Card className="title mb-5">
         <Card.Title className="text-center align-items-end">
           <Card.Link
             href={props.siteURL}
