@@ -12,8 +12,14 @@
     color: #122034;
 }
 
-/* .title{
-    border-top: ridge;
-    border-color: #24c3ae;
-    border-width: 5px;
-} */
+
+
+.title{
+    background-color: 	#d2ddd8;
+    font-family: 'ZCOOL Xiaowei', 'times new roman', serif;
+    font-size: 2vw !important;
+}
+
+a {
+    color: #122034;
+}

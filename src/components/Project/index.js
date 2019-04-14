@@ -7,29 +7,31 @@ import "./style.css";
 function Project(props) {
   return (
     <Col xs={12} md={6} lg={4}>
-      <Card className="mb-5 card">
+      <Card className="mt-5 card">
         <Card.Img variant="top" src={props.img} />
         <Card.ImgOverlay className="text-right">
           <Card.Title>
-            <a
+            <Card.Link
               href={props.repositoryURL}
               target="_blank"
               rel="noopener noreferrer"
               className="github pb-1 pl-1 pr-1"
             >
               <GoMarkGithub />
-            </a>
+            </Card.Link>
           </Card.Title>
         </Card.ImgOverlay>
-        <Card.Title className="text-center">
-          <a
+      </Card>
+      <Card className="title">
+        <Card.Title className="text-center align-items-end">
+          <Card.Link
             href={props.siteURL}
             target="_blank"
             rel="noopener noreferrer"
             className=""
           >
             {props.name}
-          </a>
+          </Card.Link>
         </Card.Title>
       </Card>
     </Col>

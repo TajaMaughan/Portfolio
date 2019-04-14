@@ -4,8 +4,8 @@ import Container from "react-bootstrap/Container";
 function About() {
   return (
     <Container>
-      <h2>About Me</h2>
-      <h5 class="">
+      <h1 className="page-header text-center">About Me</h1>
+      <h5 className="">
         I am a web developer with background as a pharmacy technician. Through
         this experience, I spent a lot of time helping customers and finding
         ways to improve the pharmacy workflow and inventory management. I really
