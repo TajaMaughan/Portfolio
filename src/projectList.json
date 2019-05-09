@@ -1,70 +1,70 @@
 [
     {
         "name": "Kitty Click",
-        "img": "./assets/images/KittyClick.png",
+        "img": "./assets/images/KittyClick.jpg",
         "siteURL": "https://kittyclick.herokuapp.com/",
         "repositoryURL": "https://github.com/TajaMaughan/KittyClick",
         "description": "A React application that deals with state to determine if something has already been clicked and to update score. Utilizes: React."
     },
     {
         "name": "Eat the Burger!",
-        "img": "./assets/images/Burger.png",
+        "img": "./assets/images/Burger.jpg",
         "siteURL": "https://mysterious-basin-54212.herokuapp.com/",
         "repositoryURL": "https://github.com/TajaMaughan/burger",
         "description": "A small application that holds burgers the users what to eat. They can then be marked as 'Devoured'. Utilizies: Node, MySQL, Sequelize, Express, and Handlebars."
     },
     {
         "name": "Friend Finder",
-        "img": "./assets/images/FriendFinder.png",
+        "img": "./assets/images/FriendFinder.jpg",
         "siteURL": "https://vast-oasis-66539.herokuapp.com/",
         "repositoryURL": "https://github.com/TajaMaughan/friendFinder",
         "description": "A questionaire that matches you to the person whom answer most closely match yours. Utilizes: Node, Express."
     },
     {
         "name": "Liri-Bot",
-        "img": "./assets/images/liri-bot.png",
+        "img": "./assets/images/liri-bot.jpg",
         "siteURL": "https://github.com/TajaMaughan/liri-node-app",
         "repositoryURL": "https://github.com/TajaMaughan/liri-node-app",
         "description": "A CLI that returns infomation about a band, song, or movie. Utilizes: Node."
     },
     {
         "name": "Bummer Passwords",
-        "img": "./assets/images/BummerPasswords.png",
+        "img": "./assets/images/BummerPasswords.jpg",
         "siteURL": "https://tajamaughan.github.io/BummerPasswords/",
         "repositoryURL": "https://github.com/TajaMaughan/BummerPasswords",
         "description": "A password manager put together as a group project. Utilizes: Firebase."
     },
     {
         "name": "Train Tracker",
-        "img": "./assets/images/TrainTracker.png",
+        "img": "./assets/images/TrainTracker.jpg",
         "siteURL": "https://tajamaughan.github.io/TrainBonus/",
         "repositoryURL": "https://github.com/TajaMaughan/TrainBonus",
         "description": "A train schedule application. Utilizes: Firebase, Moment.js."
     },
     {
         "name": "Gif Generator",
-        "img": "./assets/images/GifGenerator.png",
+        "img": "./assets/images/GifGenerator.jpg",
         "siteURL": "https://tajamaughan.github.io/GifGenerator/",
         "repositoryURL": "https://github.com/TajaMaughan/GifGenerator",
         "description": "Application that allows you add a topic to search for gif. It will pull up 10 still gifs that can be animated. Utilizes: Giphy API."
     },
     {
         "name": "Disney Trivia",
-        "img": "./assets/images/DisneyTrivia.png",
+        "img": "./assets/images/DisneyTrivia.jpg",
         "siteURL": "https://tajamaughan.github.io/TriviaGame/",
         "repositoryURL": "https://github.com/TajaMaughan/TriviaGame",
         "description": "A trivia game that will compare you answer to the correct answers and return a score. Utilizes: Javascript objects."
     },
     {
         "name": "Crystal Collector",
-        "img": "./assets/images/CrystalCollector.png",
+        "img": "./assets/images/CrystalCollector.jpg",
         "siteURL": "https://tajamaughan.github.io/unit-4-game/",
         "repositoryURL": "https://github.com/TajaMaughan/unit-4-game",
         "description": "A math game that requires you to hit the target total with out going over. Utilizes: jQuery."
     },
     {
         "name": "Word Guess",
-        "img": "./assets/images/WordGuess.png",
+        "img": "./assets/images/WordGuess.jpg",
         "siteURL": "https://tajamaughan.github.io/WordGuess/",
         "repositoryURL": "https://github.com/TajaMaughan/WordGuess",
         "description": "A hangman style game. Utilizes: jQuery."
