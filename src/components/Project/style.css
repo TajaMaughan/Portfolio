@@ -14,7 +14,7 @@
 
 
 
-.title{
+.title {
     background-color: 	#d2ddd8;
     font-family: 'ZCOOL Xiaowei', 'times new roman', serif;
     font-size: 2vw !important;
@@ -26,4 +26,8 @@ a {
 
 a:hover {
     color: #24c3ae;
+}
+
+.description {
+    font-size: 0.9vw;
 }

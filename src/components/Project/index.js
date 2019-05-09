@@ -33,6 +33,7 @@ function Project(props) {
             {props.name}
           </Card.Link>
         </Card.Title>
+        <Card.Text className="description p-2">{props.description}</Card.Text>
       </Card>
     </Col>
   );
