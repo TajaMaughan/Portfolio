@@ -11,7 +11,7 @@
         "img": "./assets/images/Burger.jpg",
         "siteURL": "https://mysterious-basin-54212.herokuapp.com/",
         "repositoryURL": "https://github.com/TajaMaughan/burger",
-        "description": "A small application that holds burgers the users what to eat. They can then be marked as 'Devoured'. Utilizies: Node, MySQL, Sequelize, Express, and Handlebars."
+        "description": "A small application that holds burgers the users want to eat. They can then be marked as 'Devoured'. Utilizies: Node, MySQL, Sequelize, Express, and Handlebars."
     },
     {
         "name": "Friend Finder",
