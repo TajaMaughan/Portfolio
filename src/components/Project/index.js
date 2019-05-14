@@ -28,7 +28,7 @@ function Project(props) {
             href={props.siteURL}
             target="_blank"
             rel="noopener noreferrer"
-            className=""
+            className="title"
           >
             {props.name}
           </Card.Link>
