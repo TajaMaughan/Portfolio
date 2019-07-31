@@ -1,5 +1,12 @@
 [
     {
+        "name": "Google Book Search",
+        "img": "./assets/images/savedBooks.jpg",
+        "siteURL": "https://stark-mountain-32566.herokuapp.com/",
+        "repositoryURL": "https://github.com/TajaMaughan/GoogleBooks",
+        "description": "A React application uses the Google Books API to search a user provided term. It returns 10 relevant results, which the user can then save. They are able to view all books that have been saved. From the saved screen, books can be unsaved. Utilizes: React, Google Books API."
+    },
+    {
         "name": "Kitty Click",
         "img": "./assets/images/KittyClick.jpg",
         "siteURL": "https://kittyclick.herokuapp.com/",

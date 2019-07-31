@@ -10,15 +10,11 @@ const Navigation = () => {
         Mataja Maughan
       </h1>
     <Navbar className="justify-content-center">
-
-      <Nav.Item >
-        <Nav.Link href="/about">About</Nav.Link>
-      </Nav.Item>
       <Nav.Item >
         <Nav.Link href="/projects">Projects</Nav.Link>
       </Nav.Item>
       <Nav.Item >
-        <Nav.Link href="/contact">Find Me</Nav.Link>
+        <Nav.Link href="/contact">About Me</Nav.Link>
       </Nav.Item>
     </Navbar></div> 
   );
